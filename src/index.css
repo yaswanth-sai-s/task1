@@ -1,0 +1,21 @@
+
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: white;
+    padding: 2rem;
+}
+
+h4{
+    color:#222;
+}
+p{
+    color: brown;
+}
+
+.photo{
+    height: 200px;
+    width: 200px;
+}
+
+
